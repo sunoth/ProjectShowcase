@@ -1,0 +1,7 @@
+.navbar-container {
+  display: flex;
+  background-color: #f1f5f9;
+  height: 80px;
+  padding: 12px;
+  padding-left: 90px;
+}

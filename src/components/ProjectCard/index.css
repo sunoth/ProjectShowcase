@@ -1,0 +1,21 @@
+.project-card-container {
+  width: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  box-shadow: 1px 0px 1px 2px #e6e9ec;
+  margin-right: 14px;
+  margin-bottom: 20px;
+}
+.project-image {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  width: 100%;
+}
+.project-name {
+  padding-left: 30px;
+  font-size: 17px;
+  font-weight: 500;
+  padding-right: 20px;
+}
